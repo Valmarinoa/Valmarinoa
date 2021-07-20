@@ -2,7 +2,7 @@
 - 👀 I’m interested in interaction design and the mixture between Ai and linguistics
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="emailto:valenmarinocol@gmail.com"> email</a>
+- 📫 How to reach me: valenmarinocol@gmail.com
 
 <!---
 Valmarinoa/Valmarinoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
