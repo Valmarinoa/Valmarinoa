@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valmarinoa
 - 👀 I’m interested in interaction design and the mixture between Ai and linguistics
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: valenmarinocol@gmail.com
 
 <!---
